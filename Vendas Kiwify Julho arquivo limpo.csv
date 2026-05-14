@@ -1,0 +1,151 @@
+id_venda,status,produto,pais,data_criacao,forma_pagamento,valor_bruto,valor_liquido,taxas,moeda,motivo_recusa,utm_source,utm_medium,utm_campaign,dia
+zSd2vaG,waiting_payment,COMUNIDADE PROFESSOR PRO,br,2025-07-31 21:15:12,pix,87.0,76.69,10.31,BRL,,,,,2025-07-31
+bgF6oJC,paid,CARDS DE LAYOUTS,br,2025-07-31 21:12:55,pix,9.9,9.01,0.89,BRL,,,,,2025-07-31
+GdxHLwj,paid,FORMAÇÃO STORYTELLING NA EDUCAÇÃO,br,2025-07-31 21:12:55,pix,9.9,9.01,0.89,BRL,,,,,2025-07-31
+AY8Iu1w,paid,GAMIFICAÇÃO & INTELIGÊNCIA ARTIFICIAL,br,2025-07-31 21:12:53,pix,27.0,22.08,4.92,BRL,,,,,2025-07-31
+Gsccfye,waiting_payment,GAMIFICAÇÃO & INTELIGÊNCIA ARTIFICIAL,br,2025-07-31 19:53:37,pix,27.0,22.08,4.92,BRL,,Instagram_Feed,Criativo01,[Fase01][CBOMinicurso][31.07],2025-07-31
+RtAX7gd,paid,GAMIFICAÇÃO & INTELIGÊNCIA ARTIFICIAL,br,2025-07-31 12:48:56,pix,27.0,22.08,4.92,BRL,,Instagram_Feed,Criativo02,[Fase01][CBOMinicurso][31.07],2025-07-31
+cs1APiO,paid,METODOLOGIAS ATIVAS COM INTELIGÊNCIA ARTIFICIAL,br,2025-07-31 09:56:27,mastercard,47.0,40.28,6.72,BRL,,Instagram_Stories,Criativo10,[Fase01][CBOCurso][31.07],2025-07-31
+0QYRVDI,waiting_payment,GAMIFICAÇÃO & INTELIGÊNCIA ARTIFICIAL,br,2025-07-29 12:40:29,pix,27.0,22.08,4.92,BRL,,Instagram_Stories,[Fase01][Gamificação][29.07][Criativo02],[Fase01][Gamificação][29.07][Criativo02],2025-07-29
+SCVJsC4,paid,COMUNIDADE PROFESSOR PRO,,2025-07-28 20:20:00,pix,67.0,58.49,8.51,BRL,,,,,2025-07-28
+3IYLfS9,paid,COMUNIDADE PROFESSOR PRO,br,2025-07-28 20:16:30,pix,67.0,58.49,8.51,BRL,,,,,2025-07-28
+HPSLaesPgJsNbm4CCyVv,refused,METODOLOGIAS ATIVAS COM INTELIGÊNCIA ARTIFICIAL,br,2025-07-26 08:34:12,pix,86.7,40.28,6.72,BRL,antifraud,Instagram_Feed,Criativo 01 - Einstein,[Fase02][CriativosCampeões][24.07],2025-07-26
+lYIBlfTdNd5WHLaQDT1R,refused,METODOLOGIAS ATIVAS COM INTELIGÊNCIA ARTIFICIAL,br,2025-07-26 08:32:09,pix,86.7,40.28,6.72,BRL,antifraud,Instagram_Feed,Criativo 01 - Einstein,[Fase02][CriativosCampeões][24.07],2025-07-26
+KFUIzM7,paid,CARDS DE LAYOUTS,,2025-07-25 14:36:26,pix,9.9,9.01,0.89,BRL,,Instagram_Feed,Criativo 01 - Einstein,[Fase02][CriativosCampeões][24.07],2025-07-25
+kCi0zdo,paid,METODOLOGIAS ATIVAS COM INTELIGÊNCIA ARTIFICIAL,,2025-07-25 14:36:23,pix,47.0,40.28,6.72,BRL,,Instagram_Feed,Criativo 01 - Einstein,[Fase02][CriativosCampeões][24.07],2025-07-25
+8uhNnzw,paid,METODOLOGIAS ATIVAS COM INTELIGÊNCIA ARTIFICIAL,,2025-07-25 08:19:18,pix,47.0,40.28,6.72,BRL,,Facebook_Mobile_Feed,[Fase01][CursoMetodologias][24.07][Criativo05],[Fase01][CursoMetodologias][24.07][Criativo05],2025-07-25
+bPO5SGk,paid,CARDS DE LAYOUTS,br,2025-07-24 19:13:45,pix,9.9,9.01,0.89,BRL,,Instagram_Feed,[Fase01][CursoMetodologias][24.07][Criativo06],[Fase01][CursoMetodologias][24.07][Criativo06],2025-07-24
+BfH2cgX,paid,BIBLIOTECA DE RECURSOS,br,2025-07-24 19:13:45,pix,19.9,18.11,1.79,BRL,,Instagram_Feed,[Fase01][CursoMetodologias][24.07][Criativo06],[Fase01][CursoMetodologias][24.07][Criativo06],2025-07-24
+XJcWDnC,paid,METODOLOGIAS ATIVAS COM INTELIGÊNCIA ARTIFICIAL,br,2025-07-24 19:13:43,pix,47.0,40.28,6.72,BRL,,Instagram_Feed,[Fase01][CursoMetodologias][24.07][Criativo06],[Fase01][CursoMetodologias][24.07][Criativo06],2025-07-24
+wNSPTJ4,paid,METODOLOGIAS ATIVAS COM INTELIGÊNCIA ARTIFICIAL,br,2025-07-24 12:16:31,pix,47.0,40.28,6.72,BRL,,Instagram_Feed,[Fase01][CursoMetodologias][24.07][Criativo06],[Fase01][CursoMetodologias][24.07][Criativo06],2025-07-24
+SwWZUeJ,paid,METODOLOGIAS ATIVAS COM INTELIGÊNCIA ARTIFICIAL,,2025-07-23 10:21:45,pix,47.0,40.28,6.72,BRL,,Instagram_Feed,[Fase01][CBO][CursoMetodologias][21.07][Criativo02],[Fase01][CBO][CursoMetodologias][21.07][Criativo02],2025-07-23
+NR2jcWv,paid,METODOLOGIAS ATIVAS COM INTELIGÊNCIA ARTIFICIAL,br,2025-07-22 20:44:10,pix,47.0,40.28,6.72,BRL,,Instagram_Feed,[Fase01][CBO][CursoMetodologias][21.07][Criativo02],[Fase01][CBO][CursoMetodologias][21.07][Criativo02],2025-07-22
+0e0KEkm,paid,METODOLOGIAS ATIVAS COM INTELIGÊNCIA ARTIFICIAL,br,2025-07-22 19:11:36,pix,47.0,40.28,6.72,BRL,,Instagram_Feed,[Fase01][CBO][CursoMetodologias][21.07][Criativo04],[Fase01][CBO][CursoMetodologias][21.07][Criativo04],2025-07-22
+7iQOGca,paid,METODOLOGIAS ATIVAS COM INTELIGÊNCIA ARTIFICIAL,br,2025-07-22 10:53:32,pix,47.0,40.28,6.72,BRL,,Instagram_Feed,[Fase01][CBO][CursoMetodologias][21.07][Criativo04],[Fase01][CBO][CursoMetodologias][21.07][Criativo04],2025-07-22
+dILmNUE,paid,CARDS DE LAYOUTS,,2025-07-22 10:43:39,mastercard,9.9,9.01,0.89,BRL,,Instagram_Stories,[Fase01][CBO][CursoMetodologias][21.07][Criativo02],[Fase01][CBO][CursoMetodologias][21.07][Criativo02],2025-07-22
+exfGm7z,paid,FORMAÇÃO STORYTELLING NA EDUCAÇÃO,br,2025-07-22 10:43:39,mastercard,9.9,9.01,0.89,BRL,,Instagram_Stories,[Fase01][CBO][CursoMetodologias][21.07][Criativo02],[Fase01][CBO][CursoMetodologias][21.07][Criativo02],2025-07-22
+0mqew7L,paid,BIBLIOTECA DE RECURSOS,br,2025-07-22 10:43:39,mastercard,19.9,18.11,1.79,BRL,,Instagram_Stories,[Fase01][CBO][CursoMetodologias][21.07][Criativo02],[Fase01][CBO][CursoMetodologias][21.07][Criativo02],2025-07-22
+c12igux,paid,METODOLOGIAS ATIVAS COM INTELIGÊNCIA ARTIFICIAL,br,2025-07-22 10:43:35,mastercard,47.0,40.28,6.72,BRL,,Instagram_Stories,[Fase01][CBO][CursoMetodologias][21.07][Criativo02],[Fase01][CBO][CursoMetodologias][21.07][Criativo02],2025-07-22
+mqIkgT1,paid,METODOLOGIAS ATIVAS COM INTELIGÊNCIA ARTIFICIAL,,2025-07-22 06:59:07,mastercard,47.0,40.28,6.72,BRL,,Instagram_Stories,[Fase01][CBO][CursoMetodologias][21.07][Criativo03],[Fase01][CBO][CursoMetodologias][21.07][Criativo03],2025-07-22
+1dcStTw,refused,CARDS DE LAYOUTS,br,2025-07-21 19:32:13,mastercard,9.9,9.01,0.89,BRL,refused_bank,,,,2025-07-21
+bKxSDWg,refused,FORMAÇÃO STORYTELLING NA EDUCAÇÃO,br,2025-07-21 19:32:13,mastercard,9.9,9.01,0.89,BRL,refused_bank,,,,2025-07-21
+iEWHfoz,refused,BIBLIOTECA DE RECURSOS,br,2025-07-21 19:32:13,mastercard,19.9,18.11,1.79,BRL,refused_bank,,,,2025-07-21
+EVOHMtZ,refused,METODOLOGIAS ATIVAS COM INTELIGÊNCIA ARTIFICIAL,br,2025-07-21 19:32:11,mastercard,47.0,40.28,6.72,BRL,refused_bank,,,,2025-07-21
+zbhbxva,paid,CARDS DE LAYOUTS,br,2025-07-20 10:58:10,pix,9.9,9.01,0.89,BRL,,Instagram_Reels,[Fase02][CursoMetodologias][19.06][criativo01new],[Fase2][CursoMetodologias][19.06][Criativo01new],2025-07-20
+MFg5404,paid,FORMAÇÃO STORYTELLING NA EDUCAÇÃO,br,2025-07-20 10:58:10,pix,9.9,9.01,0.89,BRL,,Instagram_Reels,[Fase02][CursoMetodologias][19.06][criativo01new],[Fase2][CursoMetodologias][19.06][Criativo01new],2025-07-20
+ryRARlT,paid,BIBLIOTECA DE RECURSOS,br,2025-07-20 10:58:10,pix,19.9,18.11,1.79,BRL,,Instagram_Reels,[Fase02][CursoMetodologias][19.06][criativo01new],[Fase2][CursoMetodologias][19.06][Criativo01new],2025-07-20
+ydvO04p,paid,METODOLOGIAS ATIVAS COM INTELIGÊNCIA ARTIFICIAL,br,2025-07-20 10:58:08,pix,47.0,40.28,6.72,BRL,,Instagram_Reels,[Fase02][CursoMetodologias][19.06][criativo01new],[Fase2][CursoMetodologias][19.06][Criativo01new],2025-07-20
+Jlg7Ack,paid,FORMAÇÃO STORYTELLING NA EDUCAÇÃO,br,2025-07-18 18:14:02,pix,9.9,9.01,0.89,BRL,,Facebook_Mobile_Feed,[Fase01][CBOCursoMetodologias][17.07][Criativo11],[Fase01][CBOCursoMetodologias][17.07][Criativo11],2025-07-18
+LfvhzB7,paid,CARDS DE LAYOUTS,br,2025-07-18 18:14:02,pix,7.9,7.19,0.71,BRL,,Facebook_Mobile_Feed,[Fase01][CBOCursoMetodologias][17.07][Criativo11],[Fase01][CBOCursoMetodologias][17.07][Criativo11],2025-07-18
+vgcb1IN,paid,METODOLOGIAS ATIVAS COM INTELIGÊNCIA ARTIFICIAL,,2025-07-18 18:14:00,pix,47.0,40.28,6.72,BRL,,Facebook_Mobile_Feed,[Fase01][CBOCursoMetodologias][17.07][Criativo11],[Fase01][CBOCursoMetodologias][17.07][Criativo11],2025-07-18
+3j0jVre,paid,BIBLIOTECA DE RECURSOS,br,2025-07-17 08:54:37,pix,19.9,18.11,1.79,BRL,,,,,2025-07-17
+eIfQdkx,paid,CARDS DE LAYOUTS,br,2025-07-17 08:54:37,pix,7.9,7.19,0.71,BRL,,,,,2025-07-17
+qfVfLKW,paid,COMUNIDADE PROFESSOR PRO,br,2025-07-17 08:54:35,pix,67.0,58.49,8.51,BRL,,,,,2025-07-17
+nzSslFT,paid,METODOLOGIAS ATIVAS COM INTELIGÊNCIA ARTIFICIAL,br,2025-07-17 08:23:29,pix,47.0,40.28,6.72,BRL,,Instagram_Stories,[Fase01][CBOCursoMetodologias][17.07][Criativo11],[Fase01][CBOCursoMetodologias][17.07][Criativo11],2025-07-17
+i10hSzs,paid,BIBLIOTECA DE RECURSOS,br,2025-07-16 12:04:08,pix,19.9,18.11,1.79,BRL,,,,,2025-07-16
+YuXyTtN,paid,CARDS DE LAYOUTS,br,2025-07-16 12:04:08,pix,7.9,7.19,0.71,BRL,,,,,2025-07-16
+D0JPcKo,paid,COMUNIDADE PROFESSOR PRO,br,2025-07-16 12:04:06,pix,67.0,58.49,8.51,BRL,,,,,2025-07-16
+AzfvAHh,paid,COMUNIDADE PROFESSOR PRO,,2025-07-15 21:46:06,pix,67.0,58.49,8.51,BRL,,,,,2025-07-15
+b8xWSkf,paid,METODOLOGIAS ATIVAS COM INTELIGÊNCIA ARTIFICIAL,br,2025-07-14 18:04:23,visa,47.0,40.28,6.72,BRL,,Instagram_Reels,[Fase02][CursoMetodologias][14.07][Criativo11],[Fase02][CursoMetodologias][14.07][Criativo11],2025-07-14
+mDMw9Rt,paid,COMUNIDADE PROFESSOR PRO,,2025-07-14 14:04:43,pix,67.0,58.49,8.51,BRL,,,,,2025-07-14
+x3K5hMm,paid,GAMIFICAÇÃO & INTELIGÊNCIA ARTIFICIAL,br,2025-07-14 08:18:45,mastercard,27.0,22.08,4.92,BRL,,Instagram_Feed,[Fase01][Gamificação][10.07][Criativo02],[Fase01][Gamificação][10.07][Criativo02],2025-07-14
+8FPd5ny,paid,METODOLOGIAS ATIVAS COM INTELIGÊNCIA ARTIFICIAL,,2025-07-13 22:47:58,pix,27.0,22.08,4.92,BRL,,Instagram_Stories,[Fase01][CursoMetodologias][10.07][Criativo11],[Fase01][CursoMetodologias][10.07][Criativo11],2025-07-13
+WWnOpaW,paid,METODOLOGIAS ATIVAS COM INTELIGÊNCIA ARTIFICIAL,br,2025-07-13 22:00:30,pix,47.0,40.28,6.72,BRL,,Instagram_Reels,[Fase01][CursoMetodologias][10.07][Criativo11],[Fase01][CursoMetodologias][10.07][Criativo11],2025-07-13
+U9NaN8g,paid,METODOLOGIAS ATIVAS COM INTELIGÊNCIA ARTIFICIAL,br,2025-07-12 15:32:37,pix,47.0,40.28,6.72,BRL,,Instagram_Feed,[Fase01][CursoMetodologias][10.07][Criativo11],[Fase01][CursoMetodologias][10.07][Criativo11],2025-07-12
+FnUqihj,paid,GAMIFICAÇÃO & INTELIGÊNCIA ARTIFICIAL,br,2025-07-11 19:29:42,pix,27.0,22.08,4.92,BRL,,Instagram_Feed,[Fase01][Gamificação][10.07][Criativo02],[Fase01][Gamificação][10.07][Criativo02],2025-07-11
+CtwhHcF,paid,Lucrando com Vídeos virais,br,2025-07-11 13:14:38,pix,57.0,27.16,,BRL,,,,,2025-07-11
+G9w8Sh3,refused,Lucrando com Vídeos virais,br,2025-07-11 13:13:37,mastercard,57.0,27.16,,BRL,refused_bank,,,,2025-07-11
+ZxU9NH0,refused,Lucrando com Vídeos virais,br,2025-07-11 13:10:22,mastercard,57.0,27.16,,BRL,refused_bank,,,,2025-07-11
+GwDHwjY,refused,Lucrando com Vídeos virais,br,2025-07-11 13:09:17,mastercard,57.0,27.16,,BRL,refused_bank,,,,2025-07-11
+vkMNIiJ,paid,FORMAÇÃO STORYTELLING NA EDUCAÇÃO,br,2025-07-11 00:15:19,pix,9.9,9.01,0.89,BRL,,Facebook_Mobile_Feed,[Fase01][CursoMetodologias][10.07][Criativo11],[Fase01][CursoMetodologias][10.07][Criativo11],2025-07-11
+8P5qS3F,paid,1000 ATIVIDADES PARA FAZER COM AS CRIANÇAS SEM CELULAR,br,2025-07-11 00:15:19,pix,9.9,9.01,0.89,BRL,,Facebook_Mobile_Feed,[Fase01][CursoMetodologias][10.07][Criativo11],[Fase01][CursoMetodologias][10.07][Criativo11],2025-07-11
+KK9GgEP,paid,BIBLIOTECA DE RECURSOS,br,2025-07-11 00:15:19,pix,19.9,18.11,1.79,BRL,,Facebook_Mobile_Feed,[Fase01][CursoMetodologias][10.07][Criativo11],[Fase01][CursoMetodologias][10.07][Criativo11],2025-07-11
+quXszAY,paid,METODOLOGIAS ATIVAS COM INTELIGÊNCIA ARTIFICIAL,br,2025-07-11 00:15:17,pix,47.0,40.28,6.72,BRL,,Facebook_Mobile_Feed,[Fase01][CursoMetodologias][10.07][Criativo11],[Fase01][CursoMetodologias][10.07][Criativo11],2025-07-11
+eUTDtX8,waiting_payment,1000 ATIVIDADES PARA FAZER COM AS CRIANÇAS SEM CELULAR,br,2025-07-10 23:55:30,pix,9.9,9.01,0.89,BRL,,Instagram_Feed,[Fase01][CursoMetodologias][10.07][Criativo11],[Fase01][CursoMetodologias][10.07][Criativo11],2025-07-10
+8OsAis0,waiting_payment,BIBLIOTECA DE RECURSOS,br,2025-07-10 23:55:30,pix,19.9,18.11,1.79,BRL,,Instagram_Feed,[Fase01][CursoMetodologias][10.07][Criativo11],[Fase01][CursoMetodologias][10.07][Criativo11],2025-07-10
+AXS9nJc,waiting_payment,FORMAÇÃO STORYTELLING NA EDUCAÇÃO,br,2025-07-10 23:55:30,pix,9.9,9.01,0.89,BRL,,Instagram_Feed,[Fase01][CursoMetodologias][10.07][Criativo11],[Fase01][CursoMetodologias][10.07][Criativo11],2025-07-10
+P14tjA8,waiting_payment,METODOLOGIAS ATIVAS COM INTELIGÊNCIA ARTIFICIAL,br,2025-07-10 23:55:27,pix,47.0,40.28,6.72,BRL,,Instagram_Feed,[Fase01][CursoMetodologias][10.07][Criativo11],[Fase01][CursoMetodologias][10.07][Criativo11],2025-07-10
+0HtUlpq,paid,CARDS DE LAYOUTS,br,2025-07-10 12:47:05,pix,7.9,7.19,0.71,BRL,,Instagram_Feed,[Fase01][CursoMetodologias][10.07][Criativo12],[Fase01][CursoMetodologias][10.07][Criativo12],2025-07-10
+jQyJtxA,paid,BIBLIOTECA DE RECURSOS,br,2025-07-10 12:47:05,pix,19.9,18.11,1.79,BRL,,Instagram_Feed,[Fase01][CursoMetodologias][10.07][Criativo12],[Fase01][CursoMetodologias][10.07][Criativo12],2025-07-10
+edCFdle,paid,METODOLOGIAS ATIVAS COM INTELIGÊNCIA ARTIFICIAL,br,2025-07-10 12:47:03,pix,47.0,40.28,6.72,BRL,,Instagram_Feed,[Fase01][CursoMetodologias][10.07][Criativo12],[Fase01][CursoMetodologias][10.07][Criativo12],2025-07-10
+OBXCIo7,paid,METODOLOGIAS ATIVAS COM INTELIGÊNCIA ARTIFICIAL,br,2025-07-10 11:19:50,mastercard,47.0,40.28,6.72,BRL,,Instagram_Stories,[Fase02][CursoMetodologias][07.07][Criativo01new],[Fase02][CursoMetodologias][07.07][Criativo01new],2025-07-10
+8928XVP,refused,METODOLOGIAS ATIVAS COM INTELIGÊNCIA ARTIFICIAL,br,2025-07-10 11:19:35,mastercard,47.0,40.28,6.72,BRL,refused_bank,Instagram_Stories,[Fase02][CursoMetodologias][07.07][Criativo01new],[Fase02][CursoMetodologias][07.07][Criativo01new],2025-07-10
+mRuDtmb,paid,FORMAÇÃO STORYTELLING NA EDUCAÇÃO,br,2025-07-10 10:27:03,pix,9.9,9.01,0.89,BRL,,Instagram_Stories,[Fase01][CursoMetodologias][10.07][Criativo11],[Fase01][CursoMetodologias][10.07][Criativo11],2025-07-10
+QOjqP7g,paid,METODOLOGIAS ATIVAS COM INTELIGÊNCIA ARTIFICIAL,br,2025-07-10 10:27:00,pix,47.0,40.28,6.72,BRL,,Instagram_Stories,[Fase01][CursoMetodologias][10.07][Criativo11],[Fase01][CursoMetodologias][10.07][Criativo11],2025-07-10
+cUbTHPH,paid,BIBLIOTECA DE RECURSOS,br,2025-07-10 09:32:55,pix,19.9,18.11,1.79,BRL,,,,,2025-07-10
+XTDnJ2t,paid,GAMIFICAÇÃO & INTELIGÊNCIA ARTIFICIAL,br,2025-07-10 09:32:53,pix,27.0,22.08,4.92,BRL,,,,,2025-07-10
+ON892H5,waiting_payment,CARDS DE LAYOUTS,br,2025-07-10 07:58:38,pix,9.9,9.01,0.89,BRL,,{{placement}},{{ad.name}},{{campaign.name}},2025-07-10
+WaMjzd3,waiting_payment,BIBLIOTECA DE RECURSOS,br,2025-07-10 07:58:38,pix,19.9,18.11,1.79,BRL,,{{placement}},{{ad.name}},{{campaign.name}},2025-07-10
+SQ3hle0,waiting_payment,GAMIFICAÇÃO & INTELIGÊNCIA ARTIFICIAL,br,2025-07-10 07:58:36,pix,27.0,22.08,4.92,BRL,,{{placement}},{{ad.name}},{{campaign.name}},2025-07-10
+fnXcABW,paid,Planner Pro Minimalista,br,2025-07-09 10:29:56,visa,24.99,20.25,4.74,BRL,,,,,2025-07-09
+mA4NlbU,paid,FORMAÇÃO STORYTELLING NA EDUCAÇÃO,br,2025-07-09 08:45:38,pix,9.9,9.01,0.89,BRL,,Instagram_Reels,[Fase02][CursoMetodologias][07.07][Criativo01new],[Fase02][CursoMetodologias][07.07][Criativo01new],2025-07-09
+J5DIYHL,paid,METODOLOGIAS ATIVAS COM INTELIGÊNCIA ARTIFICIAL,br,2025-07-09 08:45:36,pix,27.0,22.08,4.92,BRL,,Instagram_Reels,[Fase02][CursoMetodologias][07.07][Criativo01new],[Fase02][CursoMetodologias][07.07][Criativo01new],2025-07-09
+s8NdGlU,paid,Pack Feed Irresistível - Psicologia,br,2025-07-08 19:33:27,mastercard,37.0,12.47,5.82,BRL,,,,,2025-07-08
+t5D4YzQ,paid,Feed Irresistível - Psicologia Infantil,br,2025-07-08 18:34:01,mastercard,37.0,12.47,5.82,BRL,,,,,2025-07-08
+40qfji1,paid,30 ROTEIROS - PSICOLOGIA INFANTIL,br,2025-07-08 15:24:30,pix,9.9,9.01,0.89,BRL,,Instagram_Stories,[Fase01][PsicologiaInfantil][04.07][Criativo01],[Fase01][PsicologiaInfantil][04.07][Criativo01],2025-07-08
+X5oQuqm,paid,Feed Irresistível - Psicologia Infantil,br,2025-07-08 15:24:27,pix,37.0,31.18,5.82,BRL,,Instagram_Stories,[Fase01][PsicologiaInfantil][04.07][Criativo01],[Fase01][PsicologiaInfantil][04.07][Criativo01],2025-07-08
+q3bKKhB,paid,CARDS DE LAYOUTS,br,2025-07-08 09:50:47,pix,7.9,7.19,0.71,BRL,,Instagram_Feed,[Fase02][CursoMetodologias][07.07][Criativo01new],[Fase02][CursoMetodologias][07.07][Criativo01new],2025-07-08
+Duao3UW,paid,FORMAÇÃO STORYTELLING NA EDUCAÇÃO,br,2025-07-08 09:50:47,pix,9.9,9.01,0.89,BRL,,Instagram_Feed,[Fase02][CursoMetodologias][07.07][Criativo01new],[Fase02][CursoMetodologias][07.07][Criativo01new],2025-07-08
+zKVjmT5,paid,METODOLOGIAS ATIVAS COM INTELIGÊNCIA ARTIFICIAL,br,2025-07-08 09:50:45,pix,47.0,40.28,6.72,BRL,,Instagram_Feed,[Fase02][CursoMetodologias][07.07][Criativo01new],[Fase02][CursoMetodologias][07.07][Criativo01new],2025-07-08
+gdGT8iK,paid,METODOLOGIAS ATIVAS COM INTELIGÊNCIA ARTIFICIAL,br,2025-07-07 20:56:17,pix,47.0,40.28,6.72,BRL,,Facebook_Desktop_Feed,[Fase02][CursoMetodologias][07.07][Criativo01new],[Fase02][CursoMetodologias][07.07][Criativo01new],2025-07-07
+b7VdjeO,paid,CARDS DE LAYOUTS,br,2025-07-07 14:18:07,pix,7.9,7.19,0.71,BRL,,,,,2025-07-07
+zaxeFhJ,paid,COMUNIDADE PROFESSOR PRO,br,2025-07-07 14:18:05,pix,97.0,85.79,11.21,BRL,,,,,2025-07-07
+bZ6oaAJ,paid,METODOLOGIAS ATIVAS COM INTELIGÊNCIA ARTIFICIAL,br,2025-07-07 09:58:25,pix,47.0,40.28,6.72,BRL,,Instagram_Reels,[Fase02][CursoMetodologias][07.07][Criativo01new],[Fase02][CursoMetodologias][07.07][Criativo01new],2025-07-07
+pexu6FM,paid,FORMAÇÃO STORYTELLING NA EDUCAÇÃO,br,2025-07-06 14:55:05,pix,9.9,9.01,0.89,BRL,,,,,2025-07-06
+L7QYDzR,paid,METODOLOGIAS ATIVAS COM INTELIGÊNCIA ARTIFICIAL,br,2025-07-06 14:55:03,pix,47.0,40.28,6.72,BRL,,,,,2025-07-06
+6Zh0AeM,paid,30 ROTEIROS - PSICOLOGIA,br,2025-07-06 11:00:12,pix,9.9,9.01,0.89,BRL,,Instagram_Stories,[Fase01][PackPsicologia][04.07][Criativo01],[Fase01][PackPsicologia][04.07][Criativo01],2025-07-06
+UamOUTk,paid,Pack Feed Irresistível - Psicologia,br,2025-07-06 11:00:10,pix,37.0,31.18,5.82,BRL,,Instagram_Stories,[Fase01][PackPsicologia][04.07][Criativo01],[Fase01][PackPsicologia][04.07][Criativo01],2025-07-06
+81Mp9k2,paid,BIBLIOTECA DE RECURSOS,br,2025-07-06 10:26:06,pix,19.9,18.11,1.79,BRL,,Instagram_Reels,[Fase01][CursoMetodologias][30.01][Criativo08],[Fase01][CursoMetodologias][30.01][Criativo08],2025-07-06
+32vPQ9U,paid,FORMAÇÃO STORYTELLING NA EDUCAÇÃO,br,2025-07-06 10:26:06,pix,9.9,9.01,0.89,BRL,,Instagram_Reels,[Fase01][CursoMetodologias][30.01][Criativo08],[Fase01][CursoMetodologias][30.01][Criativo08],2025-07-06
+bVHlLJ6,paid,METODOLOGIAS ATIVAS COM INTELIGÊNCIA ARTIFICIAL,br,2025-07-06 10:26:04,pix,47.0,40.28,6.72,BRL,,Instagram_Reels,[Fase01][CursoMetodologias][30.01][Criativo08],[Fase01][CursoMetodologias][30.01][Criativo08],2025-07-06
+bk9niVW,paid,METODOLOGIAS ATIVAS COM INTELIGÊNCIA ARTIFICIAL,br,2025-07-06 08:42:00,pix,27.0,22.08,4.92,BRL,,Instagram_Feed,[Fase02][CursoMetodologias][05.07][Criativo08],[Fase02][CursoMetodologias][05.07][Criativo08],2025-07-06
+nEnSq7j,paid,METODOLOGIAS ATIVAS COM INTELIGÊNCIA ARTIFICIAL,br,2025-07-06 08:19:35,pix,47.0,40.28,6.72,BRL,,Instagram_Feed,[Fase02][CursoMetodologias][05.07][Criativo08],[Fase02][CursoMetodologias][05.07][Criativo08],2025-07-06
+ycdR3Fx,waiting_payment,METODOLOGIAS ATIVAS COM INTELIGÊNCIA ARTIFICIAL,br,2025-07-05 20:13:20,pix,47.0,40.28,6.72,BRL,,Facebook_Mobile_Feed,[Fase02][CursoMetodologias][05.07][Criativo08],[Fase02][CursoMetodologias][05.07][Criativo08],2025-07-05
+SO692Bf,paid,RÁIZES DO EU,br,2025-07-05 19:33:49,pix,19.9,15.62,4.28,BRL,,,,,2025-07-05
+VLYZ0Ma,paid,Feed Irresistível - Psicologia Infantil,br,2025-07-05 14:37:10,pix,37.0,31.18,5.82,BRL,,Instagram_Stories,[Fase01][PsicologiaInfantil][04.07][Criativo01],[Fase01][PsicologiaInfantil][04.07][Criativo01],2025-07-05
+IryXecs,paid,Reels Irresistíveis - Psicologia,br,2025-07-05 11:33:35,mastercard,37.0,31.18,5.82,BRL,,Facebook_Stories,[Fase01][ReelsPsicologia][04.07][Criativo01],[Fase01][ReelsPsicologia][04.07][Criativo01],2025-07-05
+7oqfzhC,paid,Feed Irresistível - Psicologia Infantil,,2025-07-05 08:25:30,pix,37.0,31.18,5.82,BRL,,Instagram_Stories,[Fase01][PsicologiaInfantil][04.07][Criativo01],[Fase01][PsicologiaInfantil][04.07][Criativo01],2025-07-05
+6N1iu8T,paid,METODOLOGIAS ATIVAS COM INTELIGÊNCIA ARTIFICIAL,br,2025-07-05 01:32:21,pix,47.0,40.28,6.72,BRL,,Instagram_Feed,[Fase02][CursoMetodologias][05.07][Criativo08],[Fase02][CursoMetodologias][05.07][Criativo08],2025-07-05
+wSpnNsZ,waiting_payment,CARDS DE LAYOUTS,br,2025-07-05 00:59:40,pix,7.9,7.19,0.71,BRL,,Instagram_Stories,[Fase02][CursoMetodologias][05.07][Criativo08],[Fase02][CursoMetodologias][05.07][Criativo08],2025-07-05
+fPBdxS9,waiting_payment,FORMAÇÃO STORYTELLING NA EDUCAÇÃO,,2025-07-05 00:59:40,pix,9.9,9.01,0.89,BRL,,Instagram_Stories,[Fase02][CursoMetodologias][05.07][Criativo08],[Fase02][CursoMetodologias][05.07][Criativo08],2025-07-05
+uZ43gc3,waiting_payment,1000 ATIVIDADES PARA FAZER COM AS CRIANÇAS SEM CELULAR,br,2025-07-05 00:59:40,pix,9.9,9.01,0.89,BRL,,Instagram_Stories,[Fase02][CursoMetodologias][05.07][Criativo08],[Fase02][CursoMetodologias][05.07][Criativo08],2025-07-05
+L41PI2N,waiting_payment,BIBLIOTECA DE RECURSOS,br,2025-07-05 00:59:40,pix,19.9,18.11,1.79,BRL,,Instagram_Stories,[Fase02][CursoMetodologias][05.07][Criativo08],[Fase02][CursoMetodologias][05.07][Criativo08],2025-07-05
+J29jlLR,waiting_payment,METODOLOGIAS ATIVAS COM INTELIGÊNCIA ARTIFICIAL,br,2025-07-05 00:59:38,pix,47.0,40.28,6.72,BRL,,Instagram_Stories,[Fase02][CursoMetodologias][05.07][Criativo08],[Fase02][CursoMetodologias][05.07][Criativo08],2025-07-05
+TMvKhYq,paid,GAMIFICAÇÃO & INTELIGÊNCIA ARTIFICIAL,br,2025-07-04 22:21:39,pix,27.0,22.08,4.92,BRL,,Instagram_Stories,[Fase01][Gamificação][04.07][Criativo01],[Fase01][Gamificação][04.07][Criativo01],2025-07-04
+O2HzpxK,paid,METODOLOGIAS ATIVAS COM INTELIGÊNCIA ARTIFICIAL,br,2025-07-04 14:23:44,mastercard,47.0,40.28,6.72,BRL,,,,,2025-07-04
+OLCwJKJ,paid,GAMIFICAÇÃO & INTELIGÊNCIA ARTIFICIAL,br,2025-07-04 13:44:18,mastercard,27.0,22.08,4.92,BRL,,Instagram_Feed,[Fase01][Gamificação][04.07][Criativo01],[Fase01][Gamificação][04.07][Criativo01],2025-07-04
+ZE72IzM,paid,BIBLIOTECA DE RECURSOS,br,2025-07-04 11:54:11,pix,19.9,18.11,1.79,BRL,,Instagram_Feed,[Fase01][CursoMetodologias][30.01][Criativo08],[Fase01][CursoMetodologias][30.01][Criativo08],2025-07-04
+9LeAsV0,paid,CARDS DE LAYOUTS,br,2025-07-04 11:54:11,pix,7.9,7.19,0.71,BRL,,Instagram_Feed,[Fase01][CursoMetodologias][30.01][Criativo08],[Fase01][CursoMetodologias][30.01][Criativo08],2025-07-04
+lklWabc,paid,METODOLOGIAS ATIVAS COM INTELIGÊNCIA ARTIFICIAL,br,2025-07-04 11:54:09,pix,47.0,40.28,6.72,BRL,,Instagram_Feed,[Fase01][CursoMetodologias][30.01][Criativo08],[Fase01][CursoMetodologias][30.01][Criativo08],2025-07-04
+70xJ1Rk,paid,METODOLOGIAS ATIVAS COM INTELIGÊNCIA ARTIFICIAL,br,2025-07-04 11:14:47,pix,47.0,40.28,6.72,BRL,,Instagram_Stories,[Fase02][CursoMetodologias][19.06][criativo01new],[Fase2][CursoMetodologias][19.06][Criativo01new],2025-07-04
+uyQMpm5,paid,Pack Feed Irresistível - Psicologia,br,2025-07-04 08:46:16,pix,37.0,31.18,5.82,BRL,,Instagram_Stories,[Fase01][PackPsicologia][04.07][Criativo01],[Fase01][PackPsicologia][04.07][Criativo01],2025-07-04
+os9R5HQ,waiting_payment,METODOLOGIAS ATIVAS COM INTELIGÊNCIA ARTIFICIAL,,2025-07-03 19:23:54,pix,47.0,40.28,6.72,BRL,,Instagram_Reels,[Fase02][CursoMetodologias][19.06][criativo01new],[Fase2][CursoMetodologias][19.06][Criativo01new],2025-07-03
+HJ3AqoP,waiting_payment,METODOLOGIAS ATIVAS COM INTELIGÊNCIA ARTIFICIAL,br,2025-07-03 08:37:22,pix,47.0,40.28,6.72,BRL,,{{placement}},{{ad.name}},{{campaign.name}},2025-07-03
+IHGXx1I,paid,CARDS DE LAYOUTS,br,2025-07-02 22:47:25,pix,7.9,7.19,0.71,BRL,,Instagram_Reels,[Fase2][CursoMetodologias][Semelhante][02.07][Criativo01new],[Fase2][CursoMetodologias][Semelhante][02.07][Criativo01new],2025-07-02
+L3Qzxfk,paid,FORMAÇÃO STORYTELLING NA EDUCAÇÃO,,2025-07-02 22:47:25,pix,9.9,9.01,0.89,BRL,,Instagram_Reels,[Fase2][CursoMetodologias][Semelhante][02.07][Criativo01new],[Fase2][CursoMetodologias][Semelhante][02.07][Criativo01new],2025-07-02
+C5cSMRq,paid,1000 ATIVIDADES PARA FAZER COM AS CRIANÇAS SEM CELULAR,br,2025-07-02 22:47:25,pix,9.9,9.01,0.89,BRL,,Instagram_Reels,[Fase2][CursoMetodologias][Semelhante][02.07][Criativo01new],[Fase2][CursoMetodologias][Semelhante][02.07][Criativo01new],2025-07-02
+R0IB9ih,paid,BIBLIOTECA DE RECURSOS,br,2025-07-02 22:47:25,pix,19.9,18.11,1.79,BRL,,Instagram_Reels,[Fase2][CursoMetodologias][Semelhante][02.07][Criativo01new],[Fase2][CursoMetodologias][Semelhante][02.07][Criativo01new],2025-07-02
+nJwzj2t,paid,METODOLOGIAS ATIVAS COM INTELIGÊNCIA ARTIFICIAL,br,2025-07-02 22:47:23,pix,47.0,40.28,6.72,BRL,,Instagram_Reels,[Fase2][CursoMetodologias][Semelhante][02.07][Criativo01new],[Fase2][CursoMetodologias][Semelhante][02.07][Criativo01new],2025-07-02
+FlvGSYS,waiting_payment,CARDS DE LAYOUTS,br,2025-07-02 21:09:37,pix,7.9,7.19,0.71,BRL,,Instagram_Stories,[Fase02][CursoMetodologias][19.06][criativo01new],[Fase2][CursoMetodologias][19.06][Criativo01new],2025-07-02
+QDkragm,waiting_payment,FORMAÇÃO STORYTELLING NA EDUCAÇÃO,br,2025-07-02 21:09:37,pix,9.9,9.01,0.89,BRL,,Instagram_Stories,[Fase02][CursoMetodologias][19.06][criativo01new],[Fase2][CursoMetodologias][19.06][Criativo01new],2025-07-02
+PImzgGI,waiting_payment,1000 ATIVIDADES PARA FAZER COM AS CRIANÇAS SEM CELULAR,br,2025-07-02 21:09:37,pix,9.9,9.01,0.89,BRL,,Instagram_Stories,[Fase02][CursoMetodologias][19.06][criativo01new],[Fase2][CursoMetodologias][19.06][Criativo01new],2025-07-02
+luXipgL,waiting_payment,BIBLIOTECA DE RECURSOS,br,2025-07-02 21:09:37,pix,19.9,18.11,1.79,BRL,,Instagram_Stories,[Fase02][CursoMetodologias][19.06][criativo01new],[Fase2][CursoMetodologias][19.06][Criativo01new],2025-07-02
+rKEwd7G,waiting_payment,METODOLOGIAS ATIVAS COM INTELIGÊNCIA ARTIFICIAL,,2025-07-02 21:09:35,pix,47.0,40.28,6.72,BRL,,Instagram_Stories,[Fase02][CursoMetodologias][19.06][criativo01new],[Fase2][CursoMetodologias][19.06][Criativo01new],2025-07-02
+TkBisXa,paid,Planner Pro Minimalista,br,2025-07-02 21:03:08,pix,24.99,22.74,2.25,BRL,,,,,2025-07-02
+gWAfIje,paid,RÁIZES DO EU,br,2025-07-02 21:03:06,pix,19.9,15.62,4.28,BRL,,,,,2025-07-02
+uMZ0YCg,paid,METODOLOGIAS ATIVAS COM INTELIGÊNCIA ARTIFICIAL,,2025-07-02 20:36:14,mastercard,47.0,40.28,6.72,BRL,,Facebook_Mobile_Feed,[Fase01][CursoMetodologias][30.01][Criativo08],[Fase01][CursoMetodologias][30.01][Criativo08],2025-07-02
+4QsovBW,paid,METODOLOGIAS ATIVAS COM INTELIGÊNCIA ARTIFICIAL,br,2025-07-02 10:50:17,pix,47.0,40.28,6.72,BRL,,Facebook_Desktop_Feed,[Fase02][CursoMetodologias][19.06][criativo01new],[Fase2][CursoMetodologias][19.06][Criativo01new],2025-07-02
+ziRVmjS,paid,BIBLIOTECA DE RECURSOS,,2025-07-02 06:31:55,mastercard,19.9,18.11,1.79,BRL,,Instagram_Feed,[Fase02][CursoMetodologias][19.06][criativo01new],[Fase2][CursoMetodologias][19.06][Criativo01new],2025-07-02
+8rLbnrd,paid,METODOLOGIAS ATIVAS COM INTELIGÊNCIA ARTIFICIAL,br,2025-07-02 06:31:50,mastercard,47.0,40.28,6.72,BRL,,Instagram_Feed,[Fase02][CursoMetodologias][19.06][criativo01new],[Fase2][CursoMetodologias][19.06][Criativo01new],2025-07-02
+Uf8WjGz,paid,METODOLOGIAS ATIVAS COM INTELIGÊNCIA ARTIFICIAL,br,2025-07-02 05:34:57,visa,47.0,40.28,6.72,BRL,,Facebook_Mobile_Feed,[Fase01][CursoMetodologias][30.01][Criativo07],[Fase01][CursoMetodologias][30.01][Criativo07],2025-07-02
+k219wFe,waiting_payment,METODOLOGIAS ATIVAS COM INTELIGÊNCIA ARTIFICIAL,br,2025-07-01 19:29:37,pix,47.0,40.28,6.72,BRL,,Instagram_Stories,[Fase02][CursoMetodologias][19.06][criativo01new],[Fase2][CursoMetodologias][19.06][Criativo01new],2025-07-01
+GW6fEZl,paid,METODOLOGIAS ATIVAS COM INTELIGÊNCIA ARTIFICIAL,,2025-07-01 15:59:09,pix,47.0,40.28,6.72,BRL,,Instagram_Stories,[Fase02][CursoMetodologias][19.06][criativo01new],[Fase2][CursoMetodologias][19.06][Criativo01new],2025-07-01
+TnhqIVO,paid,CARDS DE LAYOUTS,br,2025-07-01 14:10:45,mastercard,7.9,7.19,0.71,BRL,,Instagram_Feed,[Fase02][CursoMetodologias][19.06][criativo01new],[Fase2][CursoMetodologias][19.06][Criativo01new],2025-07-01
+DskSNQD,paid,BIBLIOTECA DE RECURSOS,,2025-07-01 14:10:45,mastercard,19.9,18.11,1.79,BRL,,Instagram_Feed,[Fase02][CursoMetodologias][19.06][criativo01new],[Fase2][CursoMetodologias][19.06][Criativo01new],2025-07-01
+EFd3EkC,paid,METODOLOGIAS ATIVAS COM INTELIGÊNCIA ARTIFICIAL,,2025-07-01 14:10:40,mastercard,47.0,40.28,6.72,BRL,,Instagram_Feed,[Fase02][CursoMetodologias][19.06][criativo01new],[Fase2][CursoMetodologias][19.06][Criativo01new],2025-07-01
+qsiPz8E,paid,Pack Feed Irresistível - Psicologia,br,2025-07-01 13:44:48,pix,37.0,31.18,5.82,BRL,,,,,2025-07-01
+7K3u4WG,paid,30 ROTEIROS - PSICOLOGIA,br,2025-07-01 13:17:54,mastercard,9.9,9.01,0.89,BRL,,,,,2025-07-01
+oAPSueh,paid,Pack Feed Irresistível - Psicologia,br,2025-07-01 13:17:50,mastercard,37.0,31.18,5.82,BRL,,,,,2025-07-01
+l84Si8u,paid,METODOLOGIAS ATIVAS COM INTELIGÊNCIA ARTIFICIAL,,2025-07-01 10:17:56,pix,47.0,40.28,6.72,BRL,,Instagram_Stories,[Fase02][CursoMetodologias][19.06][criativo01new],[Fase2][CursoMetodologias][19.06][Criativo01new],2025-07-01
+VcyAa2V,waiting_payment,METODOLOGIAS ATIVAS COM INTELIGÊNCIA ARTIFICIAL,,2025-07-01 10:11:48,pix,47.0,40.28,6.72,BRL,,Instagram_Stories,[Fase02][CursoMetodologias][19.06][criativo01new],[Fase2][CursoMetodologias][19.06][Criativo01new],2025-07-01
+UfYvDGO,paid,METODOLOGIAS ATIVAS COM INTELIGÊNCIA ARTIFICIAL,br,2025-07-01 10:02:13,pix,47.0,40.28,6.72,BRL,,,,,2025-07-01
